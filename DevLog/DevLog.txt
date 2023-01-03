@@ -3,14 +3,14 @@ January 1, 2023
 
 January 2, 2023, 5:00pm
 -Began researching Frontend and Backend
--Research regaring how to Get Quests
--Research regaring how to Post Quests
+-Research regarding how to Get Quests
+-Research regarding how to Post Quests
 -Ran into something called "middleware"
 -Searched about Routing or Router
 
 January 2, 2023, 7:00pm
 -Searched how to install Express on VS Code
--How to Run Node.js in VS Code From Scratch
+-How to Run Node.js in VS Code from Scratch
 -Had ran into an error npm WARN saveError ENOENT: no such file or directory, open \package.json install bootstrap
 -Researching how to GET Requests from a database
 -Trying to fix syntax and other errors
@@ -22,15 +22,18 @@ January 2, 2023, 8:00pm
 
 January 2, 2023, 10:00pm
 -Trying to figure out How to send error http response in express/node js
--Reading up on rror Handling in Express.js
--LocalHost will not load and I am trying to figure out the issue
+-Reading up on error Handling in Express.js
+-Localhost will not load and I am trying to figure out the issue
 
 January 2, 2023, 11:00pm
--Researhed how to update which I used Postman
+-Researched how to update which I used Postman
 -Updating a Quest express js
--Ficed and worked on my Router
+-Fixed and worked on my Router
 -Finalizing the steps
 -Code was unable to execute properly
+-Figured out how to use GitHub
+-Polishing up finishing touches of code
+
 
 
 
