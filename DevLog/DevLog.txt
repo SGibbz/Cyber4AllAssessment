@@ -1,1 +1,40 @@
+January 1, 2023
+  -Began researching about GitHub
+
+January 2, 2023, 5:00pm
+-Began researching Frontend and Backend
+-Research regaring how to Get Quests
+-Research regaring how to Post Quests
+-Ran into something called "middleware"
+-Searched about Routing or Router
+
+January 2, 2023, 7:00pm
+-Searched how to install Express on VS Code
+-How to Run Node.js in VS Code From Scratch
+-Had ran into an error npm WARN saveError ENOENT: no such file or directory, open \package.json install bootstrap
+-Researching how to GET Requests from a database
+-Trying to fix syntax and other errors
+
+January 2, 2023, 8:00pm
+-Starting on my POST Requests 
+-Installing the Plugin "Thunder Client" on VS Code or deciding to using Postman
+-Postman link : https://app.getpostman.com/join-team?invite_code=b94e50a81a29a89959d1b10d0fb69cab 
+
+January 2, 2023, 10:00pm
+-Trying to figure out How to send error http response in express/node js
+-Reading up on rror Handling in Express.js
+-LocalHost will not load and I am trying to figure out the issue
+
+January 2, 2023, 11:00pm
+-Researhed how to update which I used Postman
+-Updating a Quest express js
+-Ficed and worked on my Router
+-Finalizing the steps
+-Code was unable to execute properly
+
+
+
+
+
+
 
